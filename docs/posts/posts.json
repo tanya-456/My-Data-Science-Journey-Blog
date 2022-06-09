@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-06-09-i-love-blogging/",
+    "title": "I Love Blogging",
+    "description": "Hello there!.",
+    "author": [
+      {
+        "name": "Tanya",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-06-09",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-06-09T15:12:01+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Health Data Science Journey Blog",
     "description": "Welcome to our new blog, My Health Data Science Journey Blog. We hope you enjoy \nreading what we have to say!",
